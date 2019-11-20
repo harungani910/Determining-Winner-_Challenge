@@ -2,6 +2,7 @@
 
 
 Coding Challenge 2
+
 John and mike both play basketball in different teams. in the latest 3 games, john's team scored 89, 120, 103 points. while mike's team scored 116, 94 and 123 points 
 
 calculate the average score for each team 
